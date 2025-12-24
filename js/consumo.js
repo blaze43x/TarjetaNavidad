@@ -2,7 +2,7 @@ function buscar() {
     const inputBuscar = document.getElementById("inputbuscar");
     const valorBuscar = inputBuscar.value.toLowerCase();
 
-    fetch('../file/mensajes.json')
+    fetch('./file/mensajes.json')
     .then(response => { 
         if (!response.ok) { 
             throw new Error('Error en la respuesta: ' + response.status); 
