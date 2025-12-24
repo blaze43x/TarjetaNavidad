@@ -1,2 +1,2 @@
-# Proyecto Dia De La Madre
-Este proyecto está hecho con la finalidad de poder darle un regalo a mi mamá implementando los conocimientos obtenidos hasta la fecha, porque amo a mi madre
+# Proyecto Tarjeta de navidad
+Este proyecto sirvió para poder hacer una version temprana de lo que se hará cada año con respecto a la navidad. Recordar que para el siguiente proyecto la propuesta será que cada uno se pueda registrar con su propio usuario y pueda desearle navidad a cualquiera de la comunidad.
